@@ -30,5 +30,8 @@ Operators
 Data Types in JS
 
 Scope - https://jsfiddle.net/hashedbit/vf98uca0/4/
-Hoisting - https://jsfiddle.net/hashedbit/Lk13jpzf/2/
+Hoisting - https://jsfiddle.net/hashedbit/Lk13jpzf/3/
+
+Array Basics - https://jsfiddle.net/hashedbit/z2d3tbhm/3/
+Array Methods - https://jsfiddle.net/hashedbit/uy53dtLo/1/
 
