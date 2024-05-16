@@ -23,15 +23,17 @@ Gamma Batch - JavaScript, React
 ////////////////////////////////////////////////
 
 
-Variables & Functions - https://jsfiddle.net/hashedbit/v5wtaxod/2/
-Loop
-Conditionals - if else, switch
-Operators
-Data Types in JS
+Variables & Functions - https://jsfiddle.net/hashedbit/v5wtaxod/2/  
+Loop  
+Conditionals - if else, switch  
+Operators  
+Data Types in JS  
+  
+Scope - https://jsfiddle.net/hashedbit/vf98uca0/4/  
+Hoisting - https://jsfiddle.net/hashedbit/Lk13jpzf/3/  
+    
+Array Basics - https://jsfiddle.net/hashedbit/z2d3tbhm/3/  
+Array Methods - https://jsfiddle.net/hashedbit/uy53dtLo/1/  
 
-Scope - https://jsfiddle.net/hashedbit/vf98uca0/4/
-Hoisting - https://jsfiddle.net/hashedbit/Lk13jpzf/3/
-
-Array Basics - https://jsfiddle.net/hashedbit/z2d3tbhm/3/
-Array Methods - https://jsfiddle.net/hashedbit/uy53dtLo/1/
-
+Array Methods 2 - https://jsfiddle.net/hashedbit/g6k3czeh/3/  
+Array Methods 3 - https://jsfiddle.net/hashedbit/vypsf537/3/  
