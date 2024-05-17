@@ -37,3 +37,12 @@ Array Methods - https://jsfiddle.net/hashedbit/uy53dtLo/1/
 
 Array Methods 2 - https://jsfiddle.net/hashedbit/g6k3czeh/3/  
 Array Methods 3 - https://jsfiddle.net/hashedbit/vypsf537/3/  
+
+Array Methods - https://jsfiddle.net/hashedbit/s1tkLnzm/2/
+Arrow Function - https://jsfiddle.net/hashedbit/57po9qjy/5/
+
+Object Methods - https://jsfiddle.net/hashedbit/p82snLkh/2/
+String Methods - https://jsfiddle.net/hashedbit/j7czdtrv/2/
+Date Methods - https://jsfiddle.net/hashedbit/u8oyrcpg/3/
+
+DOM - https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DOM-model.svg/1200px-DOM-model.svg.png  
